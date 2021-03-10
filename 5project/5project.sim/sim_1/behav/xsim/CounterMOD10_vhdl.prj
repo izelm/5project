@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Practica5.srcs/sources_1/new/FFJK.vhd" \
+"../../../../Practica5.srcs/sources_1/new/CounterMOD10.vhd" \
+
+# Do not sort compile order
+nosort

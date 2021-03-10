@@ -1,0 +1,20 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto befba0ee46214dffa22184664d5ea09d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Alarm_behav xil_defaultlib.Alarm -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.FFJK [ffjk_default]
+Compiling architecture behavioral of entity xil_defaultlib.CounterMOD10 [countermod10_default]
+Compiling architecture behavioral of entity xil_defaultlib.CounterMOD6 [countermod6_default]
+Compiling architecture behavioral of entity xil_defaultlib.CounterSecMOD60 [countersecmod60_default]
+Compiling architecture behavioral of entity xil_defaultlib.CounterMinMOD60 [counterminmod60_default]
+Compiling architecture behavioral of entity xil_defaultlib.CounterHrsMOD12 [counterhrsmod12_default]
+Compiling architecture behavioral of entity xil_defaultlib.alarm
+Built simulation snapshot Alarm_behav
